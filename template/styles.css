@@ -166,7 +166,7 @@ a:hover {
 
 .aa {
 	background-color: #afa; 
-	ont-family: "Bitstream Vera Sans Mono","Monaco","Courier",monospace;
+	font-family: "Bitstream Vera Sans Mono","Monaco","Courier",monospace;
 	border-right: 1px solid #ddd;
 }
 
